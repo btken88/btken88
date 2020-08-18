@@ -13,4 +13,4 @@ After a decade of teaching, I decided transfer the skills of developing engaging
 * [Display Basics with Flexbos](https://brycekennedy.net/2020/06/20/display-basics-with-flexbox/)
 * [Databases, ORMs and Ruby](https://brycekennedy.net/2020/06/01/databases-orms-and-ruby-oh-my/)
 
-[![Bryce's github stats](https://github-readme-stats.vercel.app/api?username=btken88?count_private=true?show_icons=true?theme=radical)](https://github.com/btken88)
+[![Bryce's github stats](https://github-readme-stats.vercel.app/api?username=btken88&count_private=true&show_icons=true&theme=radical)](https://github.com/btken88)
