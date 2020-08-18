@@ -1,4 +1,4 @@
-[![Header](https://raw.githubusercontent.com/btken88/btken88/btken88/github-header.png "Header")](https://brycekennedy.net/)
+[![Header](https://github.com/btken88/btken88/blob/master/github-header.png?raw=true "Header")](https://brycekennedy.net/)
 
 
 # Bryce Kennedy 👋🏻
