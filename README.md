@@ -8,6 +8,7 @@ After a decade of teaching, I decided transfer the skills of developing engaging
 
 ## 📰 Blog Posts 📰
 
+* [Auth with Rails - Part 3](https://brycekennedy.net/2020/08/24/auth-with-rails-the-thrilling-conclusion/)
 * [Auth with Rails - Part 2](https://brycekennedy.net/2020/08/05/auth-with-rails-part-2/)
 * [Auth with Rails - Part 1](https://brycekennedy.net/2020/07/26/auth-with-rails-part-1/)
 * [Display Basics with Flexbos](https://brycekennedy.net/2020/06/20/display-basics-with-flexbox/)
